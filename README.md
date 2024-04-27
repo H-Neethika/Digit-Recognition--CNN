@@ -43,5 +43,3 @@ To train and evaluate the models, follow these steps:
 3. Run `python simple_model.py` to train and evaluate the simple neural network model.
 4. Run `python cnn_model.py` to train and evaluate the CNN model.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
